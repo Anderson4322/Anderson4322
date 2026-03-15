@@ -20,7 +20,7 @@
 ⭐ Projetos
 
 <a href="https://github.com/Anderson4322">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=dropdown"/>
 </a>
 <a href="https://github.com/Anderson4322">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
