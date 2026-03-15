@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Olá+meu+nome+é+Anderson+Sou+desenvolvedor+Web"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Olá+meu+nome+é+Anderson+Sou+desenvolvedor Web"/>
 </p><p align="center">
   <h1>Atualmente Cursando DS SESI/SENAI</h1>
 </p>
