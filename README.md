@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Olá+meu+nome+é+Anderson"/>
 </p><p align="center">
 <h1>💻 Desenvolvedor WEB</h1> 
-  <h2>Atualmente Cursando DS</h2>
+  <h2>Atualmente Cursando DS SESI/</h2>
 </p>
 
 🚀 Tecnologias
