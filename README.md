@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Olá+meu+nome+é+Anderson"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Olá+meu+nome+é+Anderson"/>
 </p><p align="center">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=800&lines=desenvolvedor+Web/Back-End"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=desenvolvedor+Web/Back-End"/>
 </p><p align="center">
   <h1>Atualmente Cursando DS SESI/SENAI</h1>
 </p>
