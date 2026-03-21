@@ -30,9 +30,9 @@
 
 🌎 Contato
 
-<p align="center"><a href="https://linkedin.com/anderson-ambrosio-6b8793281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<p align="center"><a href="https://www.linkedin.com/in/anderson-ambrosio-6b8793281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="anderskyfelipe@gmail.com">
+</a><a href="https://anderskyfelipe@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://www.instagram.com/ad_ambrosio18?igsh=YjJpYTI4Y2JkZjln">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
