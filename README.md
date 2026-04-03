@@ -43,16 +43,6 @@
 
 ---
 
-## 🎨 Stack Favorita (Ícones)
-
-<p align="center">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</p>
-
----
-
 ## 📘 Atualmente Estudando
 
 - C#  
