@@ -26,8 +26,8 @@
 📊 **Estatísticas**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson4322&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Anderson4322&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -41,11 +41,11 @@
 ⭐ **Projetos**
 
 <a href="https://github.com/Anderson4322/Htmls">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Anderson4322/Back-End">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
 </a>
 
 ---
@@ -53,6 +53,7 @@
 🌎 **Contato**
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/anderson-ambrosio-6b8793281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -64,4 +65,5 @@
   <a href="https://www.instagram.com/ad_ambrosio18?igsh=YjJpYTI4Y2JkZjln">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
 </p>
