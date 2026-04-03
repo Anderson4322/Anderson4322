@@ -16,17 +16,17 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+👨‍💻 Um pouco sobre mim
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
-- 💼 Focado em **Back-End**  
-- 🚀 Apaixonado por **APIs, Node.js e bancos de dados**  
-- 🧠 Sempre aprendendo novas tecnologias  
-- 🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
+ 🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
+ 💼 Focado em **Back-End**  
+ 🚀 Apaixonado por **APIs, Node.js e Frameworks**  
+ 🧠 Sempre aprendendo novas tecnologias  
+ 🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
+ 🛠️ Linguagens & Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -56,10 +56,10 @@
 
 ## 📘 Atualmente Estudando
 
-- NestJS  
-- Prisma ORM  
-- Docker  
-- React + Vite  
+- C# 
+- Unity 
+- Back-End 
+- React-native + react.js 
 
 ---
 
@@ -92,16 +92,7 @@
 </p>
 
 ---
-
-## 🐍 Snake Game (Contribuições)
-
-<p align="center">
-  <img src="https://github.com/Anderson4322/Anderson4322/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🌎 Contato
+ 🌎 Contato
 
 <p align="center">
 
