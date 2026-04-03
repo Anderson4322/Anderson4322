@@ -10,19 +10,18 @@
 
 ---
 
-🚀 **Tecnologias**
+## 🛠️ Linguagens & Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=000"/>
+  <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap&logoColor=000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=000"/>
 </p>
-
----
-
 📊 **Estatísticas**
 
 <div align="center">
