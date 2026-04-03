@@ -43,7 +43,7 @@
 
 ---
 
-## 📘 Atualmente Estudando
+📘 Atualmente Estudando
 
 - C#  
 - Unity  
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 Estatísticas
+ 📊 Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🔥 Streaks
+🔥 Streaks
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anderson4322&theme=tokyonight&hide_border=true"/>
@@ -69,7 +69,7 @@
 
 ---
 
-## ⭐ Projetos
+ ⭐ Projetos
 
 <p align="center">
   <a href="https://github.com/Anderson4322/Htmls">
