@@ -1,12 +1,32 @@
+<!-- 🌊 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Olá+meu+nome+é+Anderson"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- ✍️ Títulos animados -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Anderson!"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=desenvolvedor+Web/Back-End"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web/Back-End"/>
 </p>
 
 <h1 align="center">Atualmente Cursando DS SESI/SENAI</h1>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+- 🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
+- 💼 Focado em **Back-End**  
+- 🚀 Apaixonado por **APIs, Node.js e bancos de dados**  
+- 🧠 Sempre aprendendo novas tecnologias  
+- 🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
+
+---
+
+## 🛠️ Linguagens & Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -21,7 +41,29 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
-📊 **Estatísticas**
+
+---
+
+## 🎨 Stack Favorita (Ícones)
+
+<p align="center">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</p>
+
+---
+
+## 📘 Atualmente Estudando
+
+- NestJS  
+- Prisma ORM  
+- Docker  
+- React + Vite  
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
@@ -30,29 +72,40 @@
 
 ---
 
-📈 **Atividade**
+## 🔥 Streaks
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anderson4322&theme=react-dark"/>
-
----
-
-⭐ **Projetos**
-
-<a href="https://github.com/Anderson4322/Htmls">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Anderson4322/Back-End">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anderson4322&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-🌎 **Contato**
+## ⭐ Projetos
+
+<p align="center">
+  <a href="https://github.com/Anderson4322/Htmls">
+    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Anderson4322/Back-End">
+    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Game (Contribuições)
+
+<p align="center">
+  <img src="https://github.com/Anderson4322/Anderson4322/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌎 Contato
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/anderson-ambrosio-6b8793281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/anderson-ambrosio-6b8793281">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -60,8 +113,15 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/ad_ambrosio18?igsh=YjJpYTI4Y2JkZjln">
+  <a href="https://www.instagram.com/ad_ambrosio18">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
+</p>
+
+---
+
+<!-- 🌊 Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=150&section=footer"/>
 </p>
