@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ---
@@ -47,22 +46,8 @@
 ## 🎨 Stack Favorita (Ícones)
 
 <p align="center">
-  <!-- Node.js -->
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-  <!-- Express -->
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-
-  <!-- CORS (representado pelo ícone npm) -->
-  <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>
-
-  <!-- React -->
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
-  <!-- Tailwind CSS -->
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-
-  <!-- PostgreSQL -->
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
@@ -73,7 +58,7 @@
 - C#  
 - Unity  
 - Back-End  
-- React Native + React.js  
+- React-native + react.js  
 
 ---
 
@@ -107,7 +92,7 @@
 
 ---
 
-🌎 Contato
+ 🌎 Contato
 
 <p align="center">
 
