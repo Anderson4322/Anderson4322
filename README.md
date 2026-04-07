@@ -1,11 +1,11 @@
 <!-- 🌊 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <!-- ✍️ Títulos animados -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Anderson!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=ffff&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Anderson!"/>
 </p>
 
 <p align="center">
