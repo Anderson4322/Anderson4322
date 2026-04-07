@@ -5,22 +5,17 @@
 
 <!-- ✍️ Títulos animados -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=ffff&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Anderson!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=3000&color=ffffcenter=true&vCenter=true&width=600&lines=Atualmente+Cursando+DS+no+SESI/SENAI"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=ffffcenter=true&vCenter=true&width=700&lines=Desenvolvedor+Web/Back-End"/>
-</p>
-
-<h1 align="center">Atualmente Cursando DS SESI/SENAI</h1>
 
 ---
 
 👨‍💻 Um pouco sobre mim
 
  🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
- 💼 Focado em **Back-End**  
- 🚀 Apaixonado por **APIs, Node.js e Frameworks**  
+ 💼 Focado em **Back-End/Front-end**  
+ 🚀 Gosto de **APIs, Node.js e Frameworks**  
  🧠 Sempre aprendendo novas tecnologias  
  🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
 
@@ -107,5 +102,5 @@
 
 <!-- 🌊 Rodapé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=footer"/>
 </p>
