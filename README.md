@@ -1,6 +1,6 @@
 <!-- 🌊 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <!-- ✍️ Títulos animados -->
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web/Back-End"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=ffffcenter=true&vCenter=true&width=700&lines=Desenvolvedor+Web/Back-End"/>
 </p>
 
 <h1 align="center">Atualmente Cursando DS SESI/SENAI</h1>
