@@ -23,8 +23,6 @@
 
  🛠️ Linguagens & Tecnologias
 
-## 🛠️ Linguagens & Tecnologias
-
 <table align="center">
   <tr>
     <td align="center">
