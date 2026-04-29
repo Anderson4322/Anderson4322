@@ -5,23 +5,22 @@
 
 <!-- ✍️ Títulos animados -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=3000&color=ffffcenter=true&vCenter=true&width=600&lines=Atualmente+Cursando+DS+no+SESI/SENAI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=3000&color=ffff&center=true&vCenter=true&width=600&lines=Atualmente+Cursando+DS+no+SESI/SENAI"/>
 </p>
-
 
 ---
 
 👨‍💻 Um pouco sobre mim
 
- 🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
- 💼 Focado em **Back-End/Front-end**  
- 🚀 Gosto de **APIs, Node.js e Frameworks**  
- 🧠 Sempre aprendendo novas tecnologias  
- 🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
+🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
+💼 Focado em **Back-End/Front-end**  
+🚀 Gosto de **APIs, Node.js e Frameworks**  
+🧠 Sempre aprendendo novas tecnologias  
+🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
 
 ---
 
- 🛠️ Linguagens & Tecnologias
+🛠️ Linguagens & Tecnologias
 
 <table align="center">
   <tr>
@@ -75,22 +74,20 @@
 
 ---
 
----
-
 📘 Atualmente Estudando
 
 - C#  
 - Unity  
 - Back-End  
-- React-native + react.js  
+- React Native + React.js  
 
 ---
 
- 📊 Estatísticas
+📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Anderson4322&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson4322&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -103,23 +100,23 @@
 
 ---
 
- ⭐ Projetos
+⭐ Projetos
 
 <p align="center">
   <a href="https://github.com/Anderson4322/Htmls">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Anderson4322/Back-End">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Back-End&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Anderson4322/ReactNative">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=ReactNative&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=ReactNative&theme=tokyonight"/>
   </a>
 </p>
 
 ---
 
- 🌎 Contato
+🌎 Contato
 
 <p align="center">
 
