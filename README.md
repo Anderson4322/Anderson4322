@@ -112,6 +112,9 @@
   <a href="https://github.com/Anderson4322/ReactNative">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=ReactNative&theme=tokyonight"/>
   </a>
+    <a href="https://github.com/Anderson4322/Projeto Principal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=TechCompany&theme=tokyonight"/>
+  </a>
 </p>
 
 ---
