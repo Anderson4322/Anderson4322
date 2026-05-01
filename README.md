@@ -13,9 +13,9 @@
 👨‍💻 Um pouco sobre mim
 
 🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
-💼 Focado em **Back-End/Front-end**  
-🚀 Gosto de **APIs, Node.js e Frameworks**  
-🧠 Sempre aprendendo novas tecnologias  
+💼 Focado em **Front-end**  
+🚀 Gosto de **APIs e Frameworks**  
+🧠 Evoluido para novas tecnologias  
 🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
 
 ---
