@@ -5,22 +5,24 @@
 
 <!-- ✍️ Títulos animados -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=3000&color=ffff&center=true&vCenter=true&width=600&lines=Atualmente+Cursando+DS+no+SESI/SENAI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=3000&color=ffff&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Futuro+Full-Stack;Sempre+evoluindo"/>
 </p>
 
 ---
 
-👨‍💻 Um pouco sobre mim
+## 👨‍💻 Sobre mim
 
 🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
-💼 Focado em **Front-end**  
-🚀 Gosto de **APIs e Frameworks**  
-🧠 Evoluido para novas tecnologias  
-🎯 Objetivo atual: **evoluir para Full-Stack profissional**  
+💻 Desenvolvedor focado em **Front-End com React e integração com APIs REST**  
+🚀 Experiência criando interfaces modernas, responsivas e funcionais  
+🧠 Em constante evolução em tecnologias e boas práticas de código  
+🎯 Objetivo: me tornar um **Desenvolvedor Full-Stack profissional**  
+
+⚡ **Perfil:** disciplinado, focado em evolução contínua e em escrever código limpo e eficiente  
 
 ---
 
-🛠️ Linguagens & Tecnologias
+## 🛠️ Tecnologias
 
 <table align="center">
   <tr>
@@ -74,16 +76,15 @@
 
 ---
 
-📘 Atualmente Estudando
+## 📘 Atualmente evoluindo em
 
-- C#  
-- Unity  
-- Back-End  
-- React Native + React.js  
+- C# e .NET  
+- Desenvolvimento Back-End (APIs REST, autenticação e banco de dados)  
+- React Native (aplicações mobile)  
 
 ---
 
-📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
@@ -92,7 +93,7 @@
 
 ---
 
-🔥 Streaks
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anderson4322&theme=tokyonight&hide_border=true"/>
@@ -100,7 +101,16 @@
 
 ---
 
-⭐ Projetos
+## ⭐ Projetos
+
+🔹 **Htmls**  
+Projetos de interfaces web com foco em responsividade e boas práticas de UI  
+
+🔹 **Back-End-Pessoal**  
+API REST com Node.js e PostgreSQL, focada em organização e estrutura de back-end  
+
+🔹 **ReactNative**  
+Aplicações mobile utilizando React Native com consumo de APIs  
 
 <p align="center">
   <a href="https://github.com/Anderson4322/Htmls">
@@ -120,7 +130,7 @@
 
 ---
 
-🌎 Contato
+## 🌎 Contato
 
 <p align="center">
 
