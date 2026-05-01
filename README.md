@@ -114,6 +114,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Anderson4322/Anderson4322/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ---
 
 🌎 Contato
