@@ -88,7 +88,6 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson4322&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -96,7 +95,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anderson4322&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Anderson4322&theme=tokyonight&hide_border=true&v=4"/>
 </p>
 
 ---
