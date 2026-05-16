@@ -100,35 +100,6 @@
 
 ---
 
-## ⭐ Projetos
-
-🔹 **Htmls**  
-Projetos de interfaces web com foco em responsividade e boas práticas de UI  
-
-🔹 **Back-End-Pessoal**  
-API REST com Node.js e PostgreSQL, focada em organização e estrutura de back-end  
-
-🔹 **ReactNative**  
-Aplicações mobile utilizando React Native com consumo de APIs  
-
-<p align="center">
-  <a href="https://github.com/Anderson4322/Htmls">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Anderson4322/Back-End-Pessoal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=Back-End-Pessoal&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Anderson4322/ReactNative">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anderson4322&repo=ReactNative&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Anderson4322/Anderson4322/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 🌎 Contato
 
 <p align="center">
