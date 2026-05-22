@@ -99,6 +99,13 @@
 </p>
 
 ---
+<div align="center">
+
+![snake gif](https://github.com/Anderson4322/Anderson4322/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 ## 🌎 Contato
 
