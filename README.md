@@ -5,12 +5,30 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)** 
+<p>
+  🎓 <strong>Estudante de Desenvolvimento de Sistemas (SESI/SENAI)</strong>
+</p>
 
-💻 O que eu faço no meu dia a dia são: **Front-End e Back-End com frameworks React/React Native e integração com APIs REST + EXPRESS com protocolo CORS em Back-End**  
+<p>
+  💻 <strong>O que faço no meu dia a dia:</strong><br>
+  Desenvolvo aplicações <strong>Front-End e Back-End</strong>, utilizando
+  <strong>React</strong> e <strong>React Native</strong>, além de trabalhar
+  com <strong>APIs REST, Express e CORS</strong>.
+</p>
 
-🧠Moro em Bebedouro-SP e iniciei o curso de Desenvolvimento de Sistemas (DS) em 2025. A área de Tecnologia da Informação é uma das áreas com as quais tenho mais facilidade e que considero de fácil aprendizado. Busco me desenvolver cada vez mais como desenvolvedor, aprimorando meus conhecimentos técnicos e adquirindo novas experiências na área.
-Saindo um pouco do ambiente tecnológico, sou apaixonado por esportes, mais especificamente pelo basquete. Busco valorizar cada aprendizado, porque acredito que o conhecimento é a base de tudo para o ser humano. Meu principal objetivo não é apenas melhorar minha parte técnica, mas também evoluir como pessoa.
+<p>
+  🧠 <strong>Sobre mim:</strong><br>
+  Moro em Bebedouro-SP e iniciei o curso de Desenvolvimento de Sistemas (DS)
+  em 2025. Tenho facilidade com a área de Tecnologia da Informação e busco
+  me desenvolver cada vez mais como desenvolvedor, aprimorando meus
+  conhecimentos técnicos e adquirindo novas experiências na área.
+  
+  Saindo um pouco do ambiente tecnológico, sou apaixonado por esportes,
+  mais especificamente pelo basquete. Busco valorizar cada aprendizado,
+  porque acredito que o conhecimento é a base de tudo para o ser humano.
+  Meu principal objetivo não é apenas melhorar minha parte técnica,
+  mas também evoluir como pessoa.
+</p>
 ---
 
 ## 🛠️ Tecnologias
