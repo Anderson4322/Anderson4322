@@ -3,23 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<!-- ✍️ Títulos animados -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=3000&color=ffff&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Futuro+Full-Stack;Sempre+evoluindo"/>
-</p>
-
----
-
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)**  
-💻 Desenvolvedor focado em **Front-End com React e integração com APIs REST**  
-🚀 Experiência criando interfaces modernas, responsivas e funcionais  
-🧠 Em constante evolução em tecnologias e boas práticas de código  
-🎯 Objetivo: me tornar um **Desenvolvedor Full-Stack profissional**  
+🎓 Estudante de **Desenvolvimento de Sistemas (SESI/SENAI)** 
 
-⚡ **Perfil:** disciplinado, focado em evolução contínua e em escrever código limpo e eficiente  
+💻 O que eu faço no meu dia a dia são: **Front-End e Back-End com frameworks React/React Native e integração com APIs REST + EXPRESS com protocolo CORS em Back-End**  
 
+🧠Moro em Bebedouro-SP e iniciei o curso de Desenvolvimento de Sistemas (DS) em 2025. A área de Tecnologia da Informação é uma das áreas com as quais tenho mais facilidade e que considero de fácil aprendizado. Busco me desenvolver cada vez mais como desenvolvedor, aprimorando meus conhecimentos técnicos e adquirindo novas experiências na área.
+Saindo um pouco do ambiente tecnológico, sou apaixonado por esportes, mais especificamente pelo basquete. Busco valorizar cada aprendizado, porque acredito que o conhecimento é a base de tudo para o ser humano. Meu principal objetivo não é apenas melhorar minha parte técnica, mas também evoluir como pessoa.
 ---
 
 ## 🛠️ Tecnologias
@@ -89,14 +80,6 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
 </div>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anderson4322&theme=tokyonight&hide_border=true&v=4"/>
-</p>
 
 ---
 <div align="center">
