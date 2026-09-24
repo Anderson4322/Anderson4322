@@ -90,15 +90,6 @@
 - C# e .NET  
 - Desenvolvimento Back-End (APIs REST, autenticação e banco de dados)  
 - React Native (aplicações mobile)  
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anderson4322&show_icons=true&theme=tokyonight"/>
-</div>
-
 ---
 <div align="center">
 
